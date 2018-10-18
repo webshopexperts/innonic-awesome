@@ -1,5 +1,5 @@
 # Yet another Awesome repository.
-But this time we collect the useful resources that we use day-to-day all around Innonic. It is a collections of books, articels, conference talks, etc that we find useful.
+But this time we collect the useful resources that we use day-to-day all around Innonic. It is a collections of books, articles, conference talks, etc that we find useful.
 # Concept
 Each topics has 3 parts:
 - Level 1: Quick introduction. Requires no prior knowledge of the particular technology and takes no more than 60 minutes to complete. After this you will have a basic understanding about the given technology. 
