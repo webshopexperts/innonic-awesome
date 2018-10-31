@@ -16,7 +16,6 @@ Each topics has 3 parts:
 - [Microservice](/Microservice)
 - [MongoDB](/MongoDB)
 - [MySQL](/MySQL)
-- [React](/React)
 - [Vue](/Vue)
 
 # How to contribute
